@@ -8,5 +8,8 @@
   },
   "dependencies": {
     "mongoose": "^6.2.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
   }
 }
